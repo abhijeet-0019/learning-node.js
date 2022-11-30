@@ -10,5 +10,6 @@
     "abhi"
   ],
   "author": "abhi",
+  "type": "module",
   "license": "ISC"
 }
