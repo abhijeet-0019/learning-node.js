@@ -1,1 +1,2 @@
-This is the file I am writting into
+This is the file I am writting into. 
+// this code comes from the file outside it
